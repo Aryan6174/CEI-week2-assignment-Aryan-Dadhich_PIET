@@ -1,16 +1,17 @@
-# requirements.txt
-numpy==1.24.3
-pandas==2.0.3
-matplotlib==3.7.2
-seaborn==0.12.2
-plotly==5.15.0
-scikit-learn==1.3.0
-xgboost==1.7.6
-prophet==1.1.4
-statsmodels==0.14.0
-joblib==1.3.2
-scipy==1.11.1
-kaleido==0.2.1
-notebook==7.0.0
-python-dotenv==1.0.0
-streamlit==1.29.0
+# requirements.txt - Updated for Python 3.11+ compatibility
+
+numpy>=1.26.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+prophet>=1.1.5
+statsmodels>=0.14.0
+joblib>=1.3.0
+scipy>=1.11.0
+streamlit>=1.28.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
